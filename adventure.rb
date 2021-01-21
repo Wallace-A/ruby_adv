@@ -58,4 +58,5 @@ end
 enter_room("test_room")
 p $current_room["name"]
 #p $current_room["objects"]["table"]["description"]
+# thing
 request_input()
